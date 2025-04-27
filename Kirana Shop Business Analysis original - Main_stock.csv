@@ -1,4 +1,4 @@
-Month,Item,Purchase Qty,Sell Qty,Purchase Rate (₹),Selling Price (₹),Monthly Sales (₹),Total Cost price,Profit monthly,Profit/item,,,,Purchase Qty,Sell Qty,Purchase Rate (₹),Selling Price (₹),Monthly Sales (₹),Total Cost price,Profit monthly,Profit/item
+Month,Item,Purchase Qty(kg),Sell Qty(kg),Purchase Rate (₹),Selling Price (₹),Monthly Sales (₹),Total Cost price,Profit monthly,Profit/item,,,,Purchase Qty,Sell Qty,Purchase Rate (₹),Selling Price (₹),Monthly Sales (₹),Total Cost price,Profit monthly,Profit/item
 Jan,Sugar,50,48,40,45,2160,1920,240,5,,,COUNT,67,67,67,67,67,67,67,67
 Jan,Arhar,15,14,290,400,5600,4060,1540,110,,,MEAN,48.80597015,46.25373134,212.3880597,256.119403,10490.83582,8781.41791,1709.41791,43.73134328
 Jan,Rice,80,75,135,150,11250,10125,1125,15,,,STD.,28.11084057,27.58202274,262.1969509,313.9645088,13181.45424,10649.60935,2901.097661,62.51559371
